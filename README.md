@@ -12,6 +12,4 @@
 
 # Please Do the following to resolve installation issues:-
 1. pip install misaka
-        or
-   git clone https://github.com/FSX/misaka.git
 2.pip install django-braces
