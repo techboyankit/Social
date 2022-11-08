@@ -10,4 +10,8 @@
 6. django. contrib. staticfiles provides a convenience management command for gathering static files in a single directory.
 7. "static" and "templates" folders are used here for formulating static files and design-related stuff respectively.
 
-# I have used Visual Studio Code as respective python IDE.
+# An important Note :- Please Do the following to resolve misaka installation issue:
+
+1.git clone https://github.com/FSX/misaka.git
+2.cd misaka
+3.python setup.py install
