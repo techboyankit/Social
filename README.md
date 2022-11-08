@@ -13,3 +13,11 @@
 # Please Do the following to resolve installation issues:-
 1. pip install misaka, 
 and,  pip install django-braces
+
+
+
+
+
+
+
+
