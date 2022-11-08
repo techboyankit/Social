@@ -11,8 +11,8 @@
 7. "static" and "templates" folders are used here for formulating static files and design-related stuff respectively.
 
 # Please Do the following to resolve installation issues:-
-1. pip install misaka, 
-and,  pip install django-braces
+  pip install misaka, 
+  and,  pip install django-braces
 
 
 
