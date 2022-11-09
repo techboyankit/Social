@@ -15,6 +15,19 @@
   and,  pip install django-braces
 
 
+# Project Video and Screenshots :-
+  
+https://user-images.githubusercontent.com/52414098/200752306-6b213630-5e63-47f0-a990-1c90f8e17fe9.mp4
+
+
+![Screenshot (93)](https://user-images.githubusercontent.com/52414098/200752464-342b3a4a-6035-45be-8678-7459bbadda13.png)
+![Screenshot (103)](https://user-images.githubusercontent.com/52414098/200752442-7fb461ba-eeba-4a65-922a-98fd32c3b5b6.png)
+![Screenshot (96)](https://user-images.githubusercontent.com/52414098/200752453-04d3f62b-9144-43cd-bec9-41688770c377.png)
+![Screenshot (95)](https://user-images.githubusercontent.com/52414098/200752457-6fff4f6f-9db7-4b39-8e9d-4160029564f3.png)
+![Screenshot (94)](https://user-images.githubusercontent.com/52414098/200752461-bdcc3c36-4691-462e-90c8-c7631a7e742c.png)
+
+
+
 
 
 
